@@ -85,10 +85,33 @@ These Jenkinsfiles are pivotal in maintaining a robust and automated deployment 
 
 The Jenkinsfile for deploying the backend ECS Terraform files orchestrates the deployment process in a seamless manner.
 
+<img width="931" alt="Screen Shot 2023-11-13 at 9 40 09 AM" src="https://github.com/SaraGurungLABS01/Deployment8/assets/140760966/4e5d50cb-c6d7-459e-9505-34a43ac2465e">
+
 **2. Jenkinsfile for Frontend Deployment**
 
 The Jenkinsfile for deploying the frontend ECS Terraform files complements the backend deployment. 
 
+<img width="995" alt="Screen Shot 2023-11-13 at 9 42 23 AM" src="https://github.com/SaraGurungLABS01/Deployment8/assets/140760966/2ad5ff62-d1b9-477f-ad74-e50c62b24895">
+
+## Creating a multibranch pipeline and running the Jenkinsfile
+
+Created a multi branch pipeline to run the Jenkinsfile and deploy the Retail Banking application 
+
+Result: Successful
+
+<img width="1313" alt="Screen Shot 2023-11-13 at 9 49 47 AM" src="https://github.com/SaraGurungLABS01/Deployment8/assets/140760966/6e795ed4-bf6c-4dcc-94ec-eddfff8ee9ad">
+
 
 ## System Diagram
 
+![Deployment_8 drawio (1)](https://github.com/SaraGurungLABS01/Deployment8/assets/140760966/3d30507f-c31e-4b9c-a80d-a15d336528b4)
+
+
+## Issues
+
+## Conclusion
+
+**What is the application stack of this application?**
+
+
+**Is the backend an API server?**
